@@ -1,0 +1,319 @@
+/* .container1{
+
+} */
+  
+.container01{
+    text-align: center;
+    width: 400px;
+    background-color: gold;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    /* box-shadow: 200px; */
+    
+}
+
+
+#addr{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col2{
+    justify-content:flex-end;
+    display: flex;
+    align-items: flex-end;
+}
+
+#pro{
+    align-items: flex-start;
+    justify-content: flex-start;
+    display: flex;
+    
+}
+
+#propar{
+    align-items: flex-start;
+    display: flex;
+    justify-content: flex-start;
+    /* color: aqua; */
+}
+
+#ski{
+    align-items: flex-start;
+    display: flex;
+}
+
+#tecski{
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+}
+
+#addski{
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+}
+
+
+#techski{
+    align-items:flex-start;
+    display: list-item;
+    /* justify-content: left; */
+}
+
+.js{
+    align-items:flex-start;
+    display: flex;
+}
+
+.cs{
+    align-items:flex-start;
+    display: flex;
+
+}
+
+.ht{
+    align-items:flex-start;
+    display: flex; 
+
+}
+
+.rea{
+    align-items:flex-start;
+    display: flex;
+}
+
+
+.re{
+    align-items:flex-start;
+    display: flex;
+}
+
+.mo{
+    align-items:flex-start;
+    display: flex;
+}
+
+.de{
+    align-items:flex-start;
+    display: flex;
+}
+
+.pm{
+    align-items:flex-start;
+    display: flex;
+}
+
+.rec{
+    align-items:flex-start;
+    display: flex;
+}
+
+.bd{
+    align-items:flex-start;
+    display: flex;
+}
+
+.ed{
+    align-items:flex-start;
+    display: flex;
+}
+
+.fu{
+    align-items:flex-start;
+    display: flex; 
+}
+
+#worexp{
+    align-items: flex-start;
+    display: flex;
+}
+
+#eve{
+    align-items: flex-start;
+    display: flex;
+    font-weight:bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-size: larger; */
+}
+
+#num{
+    /* align-items:flex-end; */
+    text-align: right;
+    /* display: flex; */
+    font-weight:bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+
+
+.c3{
+    /* justify-content: left; */
+    text-align: left;
+}
+
+.p1{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+.p2{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+.p3{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+
+#we{
+    text-align: left;
+    display: flex;
+}
+
+#com{
+    align-items: flex-start;
+    display: flex;
+    font-weight:bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-size: larger; */
+}
+
+#nu{
+   /* align-items:flex-end; */
+   text-align: right;
+   /* display: flex; */
+   font-weight:bold;
+   font-style: oblique;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: larger; 
+}
+
+#edu{
+    text-align: left;
+    display: flex;
+}
+
+#eng{
+    align-items: flex-start;
+    display: flex;
+    font-weight:bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-size: larger; */
+}
+
+#numn{
+    /* align-items:flex-end; */
+    text-align: right;
+    /* display: flex; */
+    font-weight:bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger; 
+ }
+
+ .think{
+    text-align:flex-start;
+    display: flex;
+}
+ 
+
+
+ #ba{
+    align-items: flex-start;
+    display: flex;
+    font-weight:bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-size: larger; */
+ }
+
+ #numnu{
+     /* align-items:flex-end; */
+    text-align: right;
+    /* display: flex; */
+    font-weight:bold;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger; 
+ }
+
+ .uni{
+     text-align:flex-start;
+     display: flex;
+ }
+
+
+
+ .p4{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+.p5{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+.p6{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+.p7{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+.p8{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+.p9{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+.p10{
+    text-align:flex-start;
+    display: flex;
+}
+
+.p11{
+    text-align:flex-start;
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+}
+
+
+.p12{
+    text-align:flex-start;
+    display: flex;
+}
+
+
+
